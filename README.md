@@ -46,7 +46,7 @@ $から始まるのはコマンドライン操作
 
 `$ mkdir data`
 
-`$ train_questions.json data/train_questions.json`
+`$ mv train_questions.json data/train_questions.json`
 
 ## やれること
 
